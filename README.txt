@@ -4,7 +4,7 @@
 |_____|___|_| |___|_|___|
 
 This is a collection of programs that catalogues my progress in developing the game of wordle.
-It contains a eight successive versions of the main game, the wordlist as I downloaded it from the internet, the wordlist I used, and the C script I used to turn the downloaded word list into the used list.
+It contains eight successive versions of the main game, the wordlist as I downloaded it from the internet, the wordlist I used, and the C script I used to turn the downloaded word list into the used list.
 The final version is wordle8.
 
 A word is selected from the external word list, and each guess is checked against it. Valid guesses activate the machinery of the program.
